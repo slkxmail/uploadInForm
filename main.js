@@ -179,6 +179,7 @@ function uploadImageAjaxAction(url, successCallback, errorCallback)
 
 /**
  * Удалить картинку
+ * 
  * @param imageContainer
  */
 function removeImage(url, imageId)
